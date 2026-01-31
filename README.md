@@ -16,14 +16,12 @@ Nous avons comparé les performances sur un jeu de test indépendant (30 patient
 ### 📉 Comparaison de l'Apprentissage
 Le graphique ci-dessous montre comment le MLP (rouge) brise le "plafond de verre" atteint par le modèle linéaire (bleu).
 
-![Comparaison Loss](loss_comparison.png)
-*(Assure-toi d'avoir uploadé l'image ou supprime cette ligne si tu n'as pas l'image)*
+![Comparaison Loss](loss_comparaison.png)
 
 ### 🆚 Duel Final : Prédictions vs Réalité
 On observe clairement que les prédictions du MLP (Rouge) sont beaucoup plus proches de la diagonale idéale que celles du modèle linéaire (Bleu).
 
 ![Scatter Plot](prediction_duel.png)
-*(Assure-toi d'avoir uploadé l'image ou supprime cette ligne si tu n'as pas l'image)*
 
 ## 🛠️ Technologies Utilisées
 * **Python**
