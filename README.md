@@ -10,8 +10,8 @@ Nous avons comparé les performances sur un jeu de test indépendant (30 patient
 
 | Modèle | Architecture | MSE (Test Loss) | Observation |
 | :--- | :--- | :--- | :--- |
-| **Régression Linéaire** | 1 Couche (Linéaire) | **~2.40** | Sous-apprentissage (Underfitting) |
-| **Réseau de Neurones (MLP)** | 2 Couches (Leaky ReLU) | **~0.56** | **Erreur divisée par 4** 🏆 |
+| **Régression Linéaire** | 1 Couche (Linéaire) | **~1.98** | Sous-apprentissage (Underfitting) |
+| **Réseau de Neurones (MLP)** | 2 Couches (Leaky ReLU) | **~0.46** | **Erreur divisée par 3.5** 🏆 |
 
 ### 📉 Comparaison de l'Apprentissage
 Le graphique ci-dessous montre comment le MLP (rouge) brise le "plafond de verre" atteint par le modèle linéaire (bleu).
